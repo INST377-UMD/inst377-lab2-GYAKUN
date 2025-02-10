@@ -3,4 +3,4 @@
 
 # Name: Gleb Yakunin
 
-# Comments: 
+# Comments: FormPage.html redirects to ThankyouPage.html when submitted
